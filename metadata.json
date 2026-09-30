@@ -1,0 +1,6 @@
+{
+  "name": "Our+ | 家庭溫度與學習陪伴平台",
+  "description": "用最輕鬆的方式給這個家最貼心的溫度。開明與誠實雙向條約簽署、家庭心靈默契卡與真心話、108 課綱學科自主打卡選單與親子獎勵許願池。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
